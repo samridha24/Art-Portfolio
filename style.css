@@ -156,7 +156,7 @@ h1 {
   font-size: 50px;
   color: var(--forest-green);
   margin-bottom: 2px;
-  letter-spacing: 2px;
+  letter-spacing: 0px;
 }
 
 #main {
@@ -283,9 +283,6 @@ h1 {
     font-size: 0.9rem;
   }
 
-  h1 {
-    font-size: 40px;
-  }
 
   #main {
     font-size: 18px;
